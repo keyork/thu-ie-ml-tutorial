@@ -18,14 +18,14 @@
 
 numpy 是一个 python 中很常用的处理数据的工具包（后简称为“包”），通常以向量（高维向量）为运算单元，因为图像以矩阵的方式在计算机中呈现，所以使用 numpy 处理图像也非常重要。
 
-### [3 - 深度学习基础](<(https://github.com/keyork/thu-ie-ml-tutorial/tree/main/3-deep-learning)>)
+### [3 - 深度学习基础](https://github.com/keyork/thu-ie-ml-tutorial/tree/main/3-deep-learning)
 
 我们将讲解深度学习的四大要素：数据、模型、优化器、训练，深度学习的两个阶段：训练和测试。
 
-### [4 - 使用 pytorch 进行深度学习](<(https://github.com/keyork/thu-ie-ml-tutorial/tree/main/4-pytorch-tutorial)>)
+### [4 - 使用 pytorch 进行深度学习](https://github.com/keyork/thu-ie-ml-tutorial/tree/main/4-pytorch-tutorial)
 
 我们将演示使用 pytorch 如何实现上面的四大要素，以及深度学习工程的整个流程。
 
-### [5 - 如何完成这个大作业](<(https://github.com/keyork/thu-ie-ml-tutorial/tree/main/5-final-project)>)
+### [5 - 如何完成这个大作业](https://github.com/keyork/thu-ie-ml-tutorial/tree/main/5-final-project)
 
 我们将呈现出一个相对完整的，以晶圆缺陷识别为目标的深度学习工程，在呈现中，我们将讲解注释及文档的编写、训练过程可视化的工具，以及深度学习工程中常用的技巧。
